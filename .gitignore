@@ -1,0 +1,19 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore environment file
+.env
+
+# Ignore files generated during development
+/cache/
+/logs/
+/public/assets/
+
+# Ignore user-specific files
+/.idea/
+/.vscode/
+
+# Ignore system-specific files
+/.DS_Store
+/Thumbs.db
+
